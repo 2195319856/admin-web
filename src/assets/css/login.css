@@ -1,0 +1,10 @@
+.content{position:fixed;width:100%;height:100%;top:0;left:0; }
+.login{position: absolute;top:0;left:0;bottom:0;right:0;width:300px;height:50%;margin:auto;}
+.inputTop{margin-top: 10px;width: 300px}
+.background{ width:100%;
+    height:100%;  /**宽高100%是为了图片铺满屏幕 */
+    z-index:-1;
+    position: absolute;}
+.title{font-size: 40px;color: aliceblue}
+.inputBottom{margin-bottom: 0px}
+.checkbox{text-align: left;width: 100%;margin-top: 10px;color: aliceblue}
